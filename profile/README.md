@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="/assets/logo.png" alt="Saber logo" height="128" />
-</p>
-
-<h2 align="center">Smart Optimization of Building Energy (SABER)</h2>
+<h1 align="center">Smart Optimization of Building Energy (SABER)</h1>
 
 <p align="center">
   <img src="/assets/showcase-app.png" alt="Saber logo" height="480" />

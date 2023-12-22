@@ -53,5 +53,6 @@ The Smart Optimization of Building Energy project addresses the urgent issue of 
 
 - Android SDK
 - Kotlin
+- Jetpack Compose
 - Retrofit
 - TensorFlow Lite

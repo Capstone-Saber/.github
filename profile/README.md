@@ -2,7 +2,7 @@
   <img src="/assets/logo.png" alt="Saber logo" height="128" />
 </p>
 
-<h2 align="center">Smart Building Energy Optimization (SABER)</h2>
+<h2 align="center">Smart Optimization of Building Energy (SABER)</h2>
 
 <p align="center">
   <img src="/assets/showcase-app.png" alt="Saber logo" height="480" />
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-The Smart Building Energy Optimization project addresses the urgent issue of carbon emissions from buildings. Buildings contribute considerably to global energy consumption and emissions as urbanization increases. For precise measurements, efficient data processing, and control over energy generation and consumption, our study combines IoT technology with powerful Machine Learning. Buildings are a major source of carbon emissions, and current energy management systems lack the precision needed for significant reduction. Global energy demands and climate change necessitate innovative building energy solutions. Our project leverages IoT and Machine Learning for a dynamic, adaptable system. We're dedicated to combating climate change. Buildings are a substantial emissions source, yet offer immense potential for reduction through intelligent optimization. Our goal is a practical, impactful tool to address this critical environmental challenge.
+The Smart Optimization of Building Energy project addresses the urgent issue of carbon emissions from buildings. Buildings contribute considerably to global energy consumption and emissions as urbanization increases. For precise measurements, efficient data processing, and control over energy generation and consumption, our study combines IoT technology with powerful Machine Learning. Buildings are a major source of carbon emissions, and current energy management systems lack the precision needed for significant reduction. Global energy demands and climate change necessitate innovative building energy solutions. Our project leverages IoT and Machine Learning for a dynamic, adaptable system. We're dedicated to combating climate change. Buildings are a substantial emissions source, yet offer immense potential for reduction through intelligent optimization. Our goal is a practical, impactful tool to address this critical environmental challenge.
 
 ---
 
